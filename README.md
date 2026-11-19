@@ -34,5 +34,4 @@ Created as part of the skill assessment.
 ## Live Website Link (GitHub):
  https://monishal18.github.io/web-SA2-moni/
 
-**GitHub Repository:**
-https://github.com/YOUR-USERNAME/MWD-CO2
+
